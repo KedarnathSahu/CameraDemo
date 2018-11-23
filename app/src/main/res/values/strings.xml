@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="avatar">Avatar</string>
+    <string name="camera_button">Camera Button</string>
+    <string name="border">Border</string>
+</resources>
